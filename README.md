@@ -7,6 +7,9 @@ To run:
 
     npm install
 
+You will also need to create a directory (until I figure out how to do this better)
+named uploads in the root directory of the app.
+
 For development purposes, you will need to run two servers; one to handle uploading
 and the other for your webpack bundle:
 
