@@ -36,7 +36,7 @@ app.use('/', router);
   // --- End server configuration
 //-----------------------------------------------------
 // --- Start service
-server.listen(3333);
+server.listen(3334);
 console.log(
-  'Express server listening on port 3333;'
+  'Express server listening on port 3334;'
 );

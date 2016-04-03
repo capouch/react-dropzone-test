@@ -6,7 +6,13 @@ module.exports = {
   },
   devServer: {
     port: 3333,
-    inline: true
+    inline: true,
+    proxy: {
+    '/uploadHandler*': {
+      target: 'http://localhost:3334',
+      secure: false,
+      },
+    },
   },
   module: {
     loaders: [
