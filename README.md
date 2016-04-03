@@ -7,6 +7,6 @@ To run:
 
     npm install
 
-    npm install babel-core
+    npm install babel-core babel-load babel-preset-react babel-preset-es2015
 
     npm start
