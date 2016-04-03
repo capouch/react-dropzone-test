@@ -26,6 +26,9 @@ build/Release
 # Dependency directory
 node_modules
 
+# Upload directory
+uploads
+
 # Optional npm cache directory
 .npm
 
