@@ -18,6 +18,10 @@ In the other
 
     npm run-script run
 
-Access the server like this:
+Access the *development* server like this:
 
     http://localhost:3333
+
+Access the *production* server thus:
+
+    http:/localhost:3334
