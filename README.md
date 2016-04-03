@@ -7,6 +7,10 @@ To run:
 
     npm install
 
+You need to create the webpack bundle:
+
+    npm run-script build
+
 For development purposes, you will need to run two servers; one to handle uploading
 and the other for your webpack bundle:
 
