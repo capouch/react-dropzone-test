@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "build": "webpack",
-    "run": "webpack-dev-server"
+    "devel": "webpack-dev-server"
   },
   "keywords": [],
   "author": "",

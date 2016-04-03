@@ -25,7 +25,7 @@ In one window:
 
 In the other
 
-    npm run-script run
+    npm run-script devel
 
 Access the *development* server like this:
 
