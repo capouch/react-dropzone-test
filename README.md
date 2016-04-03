@@ -7,8 +7,17 @@ To run:
 
     npm install
 
-This next line may not still be necessary.  
+For development purposes, you will need to run two servers; one to handle uploading
+and the other for your webpack bundle:
 
-    npm install babel-core babel-loader babel-preset-react babel-preset-es2015
+In one window:
 
     npm start
+
+In the other
+
+    npm run-script run
+
+Access the server like this:
+
+    http://localhost:3333
