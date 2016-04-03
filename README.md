@@ -34,3 +34,6 @@ Access the *development* server like this:
 Access the *production* server thus:
 
     http:/localhost:3334
+
+The production server acts as a proxy for the uploadHandler functionality needed
+by the development server.
