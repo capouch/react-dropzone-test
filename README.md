@@ -1,6 +1,11 @@
 # react-dropzone-test
 Showing how dropzone, React, multer, and webpack rule
 
+Setup, to be done as root:
+
+    npm install -g babel
+    npm install -g webpack
+
 To run:
 
     git clone https://github.com/capouch/react-dropzone-test
